@@ -23,7 +23,7 @@ An AI perfume recommendation assistant. Allow me use an analogy, you have a shop
 # Installation and Usage
 ### The following are terminal instructions:
 ``` # clone repo ```<br>
-``` git clone git@github.com:elabongaatuo/openai-perfumeassistant.git ```<br>
+``` git clone https://github.com/elabongaatuo/openai-perfumeassistant.git ```<br>
 ``` # change into directory ```<br>
 ``` cd openai-perfumeassistant ```<br>
 ``` # install the necessary packages ```<br>
