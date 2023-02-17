@@ -1,0 +1,19 @@
+# Herein contains files that I am still working on or are duplicates 
+
+#python files
+*.py
+
+#csv files
+*.csv
+
+# perfumes-
+perfumes-*
+
+#ipynb
+perfume-recommender.ipynb
+
+#html files
+index.html
+
+# folder and contents
+templates
