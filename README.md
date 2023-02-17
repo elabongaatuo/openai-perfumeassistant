@@ -34,7 +34,8 @@ To access the OpenAI API, you need to create an account [here](https://rb.gy/ifu
 
 To access the PineCone Index API, you need to create your account [here](https://rb.gy/jshent)
 
-
+# Sample Conversation
+<img src="images/specific2gpt3.PNG" >
 # Known Issues / Disclaimer
 You may obtain the API Keys from OpenAI but however may not get a response and get a **_"you exceed your current quota"_** error.<br>
 To solve this, you may need to [add a payment method](https://platform.openai.com/account/billing/payment-methods).<br>
