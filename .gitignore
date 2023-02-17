@@ -6,12 +6,6 @@
 #csv files
 *.csv
 
-# perfumes-
-perfumes-*
-
-#ipynb
-perfume-recommender.ipynb
-
 #html files
 index.html
 
